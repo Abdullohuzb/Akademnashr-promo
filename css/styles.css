@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 /* SITE-HEADER */
+=======
+>>>>>>> 92d51c372a7dd42c0259011894184f54d26d0b3d
 .site-header {
   background-color: #fff;
 }
 
+<<<<<<< HEAD
 /* SITENAV */
+=======
+>>>>>>> 92d51c372a7dd42c0259011894184f54d26d0b3d
 .sitenav-link {
   font-weight: 500;
   font-size: 13px;
@@ -14,7 +20,10 @@
   color: #000;
 }
 
+<<<<<<< HEAD
 /* MAIN-LINK */
+=======
+>>>>>>> 92d51c372a7dd42c0259011894184f54d26d0b3d
 .main-link {
 font-style: 13px;
 line-height: 15px;
@@ -23,7 +32,10 @@ color: #fff;
 text-decoration: none;
 }
 
+<<<<<<< HEAD
 /* HERO */
+=======
+>>>>>>> 92d51c372a7dd42c0259011894184f54d26d0b3d
 .hero {
   background-color: #252420;
   color: #fff;
@@ -56,15 +68,21 @@ letter-spacing: 0.5px;
   letter-spacing: 0.5px;
 }
 
+<<<<<<< HEAD
 /* FEATURES */
+=======
+>>>>>>> 92d51c372a7dd42c0259011894184f54d26d0b3d
 .features-heading {
  font-size: 72px;
  line-height: 1.2;
  letter-spacing: 0.5px;
 }
 
+<<<<<<< HEAD
 
 /* FEATURE */
+=======
+>>>>>>> 92d51c372a7dd42c0259011894184f54d26d0b3d
 .feature {
 width: 340px;
 }
@@ -92,8 +110,11 @@ background-color: #252420;
 color: #fff;
 }
 
+<<<<<<< HEAD
 
 /* PROMO */
+=======
+>>>>>>> 92d51c372a7dd42c0259011894184f54d26d0b3d
 .promo-content {
   width: 440px;
   height: 291px;
@@ -119,8 +140,11 @@ color: #FF7500;
   object-fit: cover;
 }
 
+<<<<<<< HEAD
 
 /* SITE-FOOTER */
+=======
+>>>>>>> 92d51c372a7dd42c0259011894184f54d26d0b3d
 .site-footer {
   background-color: #F8F8F8;
 }
